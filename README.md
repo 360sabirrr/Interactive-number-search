@@ -16,3 +16,7 @@ An interactive Python console application that allows users to create a list of 
 ## Technologies 🛠️
 - Python 3
 - Console-based application
+
+## Sample Output 💻
+
+![Sample Output]("C:\Users\sabir\OneDrive\Pictures\Screenshots\Screenshot 2025-12-15 162609.png")
