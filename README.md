@@ -19,4 +19,4 @@ An interactive Python console application that allows users to create a list of 
 
 ## Sample Output 💻
 
-![Sample Output]("C:\Users\sabir\OneDrive\Pictures\Screenshots\Screenshot 2025-12-15 162609.png")
+<img width="796" height="437" alt="Screenshot 2025-12-15 162609" src="https://github.com/user-attachments/assets/ebeadf65-04b7-46ad-b03e-b9f5e6b024a0" />
