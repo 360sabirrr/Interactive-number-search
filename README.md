@@ -18,6 +18,6 @@ menu-driven interface.
 - Python 3
 - Console-based application
 
-## Sample Output 💻
+## Sample Output Image 💻
 
 <img width="796" height="437" alt="Screenshot 2025-12-15 162609" src="https://github.com/user-attachments/assets/ebeadf65-04b7-46ad-b03e-b9f5e6b024a0" />
